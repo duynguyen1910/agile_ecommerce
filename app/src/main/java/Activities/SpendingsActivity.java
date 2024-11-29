@@ -32,7 +32,7 @@ public class SpendingsActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
         initUI();
         getCustomerID();
-//        setupEvents();
+        setupEvents();
 
 
     }
