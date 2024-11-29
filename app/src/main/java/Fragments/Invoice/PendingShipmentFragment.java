@@ -25,7 +25,7 @@ public class PendingShipmentFragment extends Fragment {
     @Override
     public void onResume() {
         super.onResume();
-//        setupUI();
+        setupUI();
     }
 
     private void setupUI() {
