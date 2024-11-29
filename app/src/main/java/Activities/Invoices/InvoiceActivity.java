@@ -37,7 +37,7 @@ public class InvoiceActivity extends AppCompatActivity {
         initUI();
         setupUI();
 
-//        setupEvents();
+        setupEvents();
 
     }
 

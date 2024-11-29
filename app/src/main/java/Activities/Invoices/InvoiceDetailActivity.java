@@ -44,7 +44,7 @@ public class InvoiceDetailActivity extends AppCompatActivity {
         setContentView(binding.getRoot());
         initUI();
         setupUI();
-//        setupEvent();
+        setupEvent();
 
     }
 
